@@ -18,14 +18,13 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,py,linux,apple,windows,github,githubactions,git,arch,discord,bots,mysql,sqlite,fastapi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,py,linux,apple,windows,github,githubactions,git,arch,discord,bots,mysql,sqlite,fastapi&theme=dark" />
   </a>
 </div>
 
 <h2 align="center">Stats</h2>
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Abdullah-Albanna&count_private=true&theme=codeSTACKr&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Abdullah-Albanna&count_private=true&show_icons=true&theme=codeSTACKr&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abdullah-Albanna&hide=HTML&langs_count=8&layout=compact&theme=codeSTACKr&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
