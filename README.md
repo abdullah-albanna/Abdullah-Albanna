@@ -18,7 +18,7 @@
 </h3>
 
 <hr/>
-<h2 align="center">What I Do (It's Rust... but also some other things)</h2>
+<h2 align="center">What I'm Comfortable to Work With</h2>
 
 <!-- Skill Icons with Vertical Spacing -->
 <div align="center">
@@ -26,7 +26,7 @@
     <table>
       <tr>
         <td><img src="https://skillicons.dev/icons?i=rust,py,lua&theme=dark" /></td>
-        <td><img src="https://skillicons.dev/icons?i=linux,arch,apple,windows&theme=dark" /></td>
+        <td><img src="https://skillicons.dev/icons?i=linux,arch,apple&theme=dark" /></td>
       </tr>
       <tr>
         <td><img src="https://skillicons.dev/icons?i=github,githubactions,git&theme=dark" /></td>
@@ -47,6 +47,11 @@
   </a>
 </div>
 
+<h2 align="center">Except with this thing</h2>
+<div align = "center" >
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" />
+</div>
+  
 ---
 
 
